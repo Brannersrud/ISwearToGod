@@ -1,0 +1,12 @@
+{
+    "name": "I-swear-to-god",
+    "version": "1.0.0",
+    "description": "Just a test",
+    "main": "bot.js",
+    "author": "brannersrud",
+    "dependencies": {
+        "bad-words": "^3.0.3",
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "winston": "^3.2.1"
+    }
+}
